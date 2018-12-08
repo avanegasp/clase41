@@ -1,0 +1,5 @@
+class ServiceBase
+  
+
+
+end
